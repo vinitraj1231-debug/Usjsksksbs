@@ -1,0 +1,9 @@
+--- SECURITY WATERMARK ---
+User ID: 7915069238
+Username: @lI_ABHI_Il
+Product ID: 464891
+Product Name: WormGPT Bot Source
+Download Timestamp: 2026-03-03 00:44:06 UTC
+---------------------------
+This source code is licensed to the specific user mentioned above.
+Any illegal distribution will be traced back to this ID.
